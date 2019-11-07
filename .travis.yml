@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key: 544bbff8-63df-4f51-a0ff-bde577a84230
     secure: $HEROKU_API_KEY
-  app: test-my-travisci-project
+  app: software-things
   on:
     repo: ja5p3r/software1
     
